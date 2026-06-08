@@ -1,0 +1,1 @@
+s3_bucket_name = "cmtr-gy0ttqu8-bucket-1780905598"
